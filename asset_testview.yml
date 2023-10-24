@@ -1,0 +1,27 @@
+key: testview
+name: TestView
+assetType: BOARD
+nodeType: ASSET
+serializationType: YAML
+serializedContent: |
+  metadata:
+    key: "testview"
+    template: false
+    name: "TestView"
+    allowAdvancedFilters: true
+  layout:
+    rows:
+    - id: "row_87a6a0d5-bdec-411e-b326-ecf3b93f836a"
+      columns:
+      - id: "column_5898efed-87b0-4323-a1ee-1c2eeb9db103"
+        componentId: ""
+        size: "1"
+        type: "default"
+        order: 100
+      order: 100
+schemaVersion: 1
+assetMetadataTransport:
+  hidden: false
+  metadata: null
+  relatedAssets: []
+showInViewerMode: true
